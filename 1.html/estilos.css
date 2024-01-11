@@ -29,6 +29,11 @@ h2{
 
 form{
     background-color: aquamarine;
-    margin: 0;
-    padding: 0px;
+    margin: 0px;
+    padding: 20px;
+}
+
+#table{
+    padding: 10px;
+    background-color: red;
 }
