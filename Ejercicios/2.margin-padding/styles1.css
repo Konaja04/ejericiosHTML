@@ -1,0 +1,24 @@
+.container{
+    border: 3px;
+    border-style: solid;
+    margin: 10px;
+}
+
+#id1{
+    margin: 20px;
+    background-color: rgb(233, 148, 148);
+    border-color: blue;
+    padding: 15pt;
+}
+#id2{
+    background-color: rgb(111, 190, 184);
+    border-color: brown;
+    margin-bottom: 30pt;
+}
+#id3{
+    background-color: rgb(238, 202, 124);
+    border-color: brown;
+    padding: 15pt;
+    width: 40%;
+    margin-left: auto;
+}
