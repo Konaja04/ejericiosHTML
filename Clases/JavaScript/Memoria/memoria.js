@@ -20,6 +20,7 @@ function crearCasillas(){
 }
 function devolverCasillas(row, col){
     const pos = row * 3 + col
+    console.log(pos)
     return listaCasillas[pos]
 }
 function ponerSimbolosCasillas(){
